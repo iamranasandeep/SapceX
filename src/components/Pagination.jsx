@@ -1,5 +1,3 @@
-// src/components/Pagination.jsx
-
 import React, { useState, useEffect } from 'react';
 
 const Pagination = ({ missionsPerPage, totalMissions, paginate, currentPage }) => {
